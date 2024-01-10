@@ -49,7 +49,9 @@ output:
     putih
 
 The__init_ methods works as a constructor which is tasked to assign values to the data member of the class when an object of the class is created. __init__ is an example of Magic methods or Dunder method in python. The characteristics of magic method is their name always begins and ends with double underscore (__). Besides __init__, there are myriads of magic method that can be used to develop OOP, we are going to discuss some of them below:
-1. __dict__ 	
+
+1. __dict__
+
 This method returns a dictionary containing attributes and its value of an object.
 
 Syntax:
