@@ -63,6 +63,7 @@ Output:
     {'color': 'hitam', 'type': 'sedan'}
 
 2.__len__ 
+
 This method returns the length of a value.
 Syntax:
 
@@ -73,6 +74,7 @@ Output
     5
     
 3.__add__
+
 This methods adds two object and returns a new object as a resultant.
 
 Syntax:
@@ -103,6 +105,7 @@ There are several principles that works in OOP which is
 we are going to dive into these principles further
 
 1.Encapsulations
+
 Encapsulation is a method to make a variable or attribute  in OOP becomes hidden by turning it into a hidden attribute to prevent it from being changed accidentally. 
 
 Syntax:
@@ -153,6 +156,7 @@ Output:
     this car's price is 1000
     
 2.Inheritance
+
 Inheritance in OOP allows us to define a class that inherits all the method and properties from another class. Parent class is the class that being inherited and child class is the one who inherits it
 
 Syntax:
@@ -190,7 +194,9 @@ Output:
     this suv is drifting
     
 In this example we create two classes, the car class is the parent class and the suv class is the children class. The suv class inherits the method from the car class, it is shown that the suv can use the stop()
+
 3.Polymophism
+
 Polymorphism in OOP means that function with same name can be used in various object
 
 Syntax:
@@ -218,4 +224,5 @@ From the sytax above, it can be seen that the class racing_car and bus have func
 
 
 CONCLUSION
+
 OOP in python is very useful because of it’s readability and reusability. The use of OOP is still relevant and frequent until this day.
