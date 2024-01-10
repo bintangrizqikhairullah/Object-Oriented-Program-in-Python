@@ -4,6 +4,7 @@ Object oriented program (OOP) is one of programming paradigms that can be used t
 To create an OOP, first we define a class that act as a blueprint of an object then we can assign it to an object, the class contains attributes and method that encapsulates the behavior of an object.
 Syntax:
 
+#%%
 class car:
     color="red"
     type="SUV"
