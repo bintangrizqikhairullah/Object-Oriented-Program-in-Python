@@ -5,17 +5,17 @@ To create an OOP, first we define a class that act as a blueprint of an object t
 Syntax:
 
 class car:
-    #attribute
+    attribute
     color="red"
     type="SUV"
-    #method
+    method
     def driving(self):
         print("This car is driving")
-#create an object mobil_sedan
+create an object mobil_sedan
 mobil=car()
-#access atribute
+access atribute
 print(mobil_sedan.color)
-#use the method of the class
+use the method of the class
 mobil.driving()
 output:
 
