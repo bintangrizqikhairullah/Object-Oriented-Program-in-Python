@@ -3,6 +3,7 @@
 Object oriented program (OOP) is one of programming paradigms that can be used to approach or solving problem in python. It has advantage in term of reusability, data hiding and readability of the code than other programming paradigms. OOP is a type of program that oriented or focused around an object. In this article, we will inspect further the basics of OOP and its application.
 To create an OOP, first we define a class that act as a blueprint of an object then we can assign it to an object, the class contains attributes and method that encapsulates the behavior of an object.
 Syntax:
+
 class car:
     #attribute
     color="red"
@@ -17,8 +18,10 @@ print(mobil_sedan.color)
 #use the method of the class
 mobil.driving()
 output:
+
 red
 This car is driving
+
 In the syntax above, we created a class called car which have two attributes which is ‘color’ and ‘type’, and a method ‘driving()’ to print the information about the car . The attribute can be analogized as the characteristic of an object for example, the color of a cat, the height of someone while the method can be analogized as the action of an object for example, a cat walks and a bird flies. Usually, attribute of an object is initialized by using the method __init__, the syntax to use __init__ is shown below:
 Syntax:
 class car:
