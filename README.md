@@ -19,6 +19,7 @@ Syntax:
     mobil.driving()
     
 output:
+
     red
     This car is driving
 
