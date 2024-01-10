@@ -5,6 +5,7 @@ To create an OOP, first we define a class that act as a blueprint of an object t
 Syntax:
 
 #%%
+
 class car:
     color="red"
     type="SUV"
@@ -13,7 +14,7 @@ class car:
 mobil=car()
 print(mobil_sedan.color)
 mobil.driving()
-
+#%%
 output:
 
 red
